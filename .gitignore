@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.pyc
+*.py[cod]
+.env
+.env.local
+models/*.joblib
+models/*.pkl
+data/cache/
+data/*.csv
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
