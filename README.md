@@ -5,6 +5,10 @@
 A production-grade system that analyzes on-chain behavior patterns to detect potentially fraudulent Ethereum wallets. Built with FastAPI, Machine Learning, and real-time Etherscan data.
 
 ---
+**lIVE lINK** 
+
+https://wallet-risk-analyzer-production.up.railway.app/docs
+
 
 ## 🎯 What It Does
 
